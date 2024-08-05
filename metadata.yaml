@@ -1,0 +1,41 @@
+_repo: Literary-values-and-other-papers_74104
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burroughs, John
+    birthdate: 1837
+    deathdate: 1921
+    gutenberg_agent_id: '1127'
+    url: http://www.gutenberg.org/2009/agents/1127
+    wikipedia: https://en.wikipedia.org/wiki/John_Burroughs
+description: ''
+gutenberg_issued: '2024-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74104'
+  lccn: '33012812'
+language: en
+pgterms:marc904: https://archive.org/details/literaryvaluesot00burr_0/page/n9/mode/2up
+pgterms:marc905: 20220112201619burroughs
+pgterms:marc906: '1902'
+pgterms:marc907: EN
+production_note: Alan, Charlene Taylor and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive/American Libraries.)
+publication_note: '  $aBoston :$bHoughton, Mifflin and Company, $c1902.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American essays'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Literary values -- Analogy, true and false -- Style and the man --
+  Criticism and the man -- Recent phases of literary criticism -- "Thou shalt not
+  preach" -- Democracy and literature -- Poetry and eloquence -- Gilbert White again
+  -- Lucid literature -- "Mere literature" -- Another word on Emerson -- Thoreau's
+  wildness -- Nature in literature -- Suggestiveness -- On the re-reading of books
+  -- The spell of the past -- The secret of happiness.
+title: Literary values, and other papers
+url: http://www.gutenberg.org/ebooks/74104
